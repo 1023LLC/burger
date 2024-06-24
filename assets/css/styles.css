@@ -107,6 +107,7 @@ img {
 }
 
 .section__title {
+  color: var(--title-color) !important;
   text-align: center;
   font-size: var(--h1-font-size);
   margin-bottom: 2rem;
